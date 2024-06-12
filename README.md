@@ -17,7 +17,7 @@ In my graphical scene, it contains a teddy bear consisting of textured rectangul
 This was created from a start-up code written by lecturer Dr. Ian Bond.
 
 ## Instructions
-Run `A3DGraphicsScene.java` and enjoy the view!
+Extract the images from the `Textures.zip` file to a new folder `Textures`. Run `A3DGraphicsScene.java` and enjoy the view!
 
 ## What I learnt:
 - Coordinate transformations (in homogeneous coordinates)
