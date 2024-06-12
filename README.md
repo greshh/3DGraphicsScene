@@ -1,4 +1,4 @@
-# 3DGraphicsScene
+# A 3D Graphics Scene
 ***Start:** September 29<sup>th</sup> 2023, **Finish:** October 30<sup>th</sup> 2023*
 
 For a second-year course: Graphical Programming
@@ -13,6 +13,11 @@ The scene contains:
 - The visible faces of a uniform colour cube correctly placed and shaded. The cube is located in an arbitrary position in the scene - not aligned with the principle axes in the world coordinates.
 
 In my graphical scene, it contains a teddy bear consisting of textured rectangular "cubes" and spheres sitting on a block of wood with a shiny ball and two cubes (one is a Rubix cube) in a textured room.
+
+This was created from a start-up code written by lecturer Dr. Ian Bond.
+
+## Instructions
+Run `A3DGraphicsScene.java` and enjoy the view!
 
 ## What I learnt:
 - Coordinate transformations (in homogeneous coordinates)
